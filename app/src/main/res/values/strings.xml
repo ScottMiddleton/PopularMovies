@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+    <string name="rating_title">Rating</string>
+    <string name="release_date_title">Release Date</string>
+    <string name="review_title">Reviews</string>
+    <string name="plot_summary">Plot Summary</string>
+    <string name="trailer">Trailer</string>
+
+    <string name="out_of_ten">/10</string>
+
+    <string name="no_reviews">Sorry, we have no reviews for this movie</string>
+    <string name="trailer_button_content_description">Trailer Button. Please click this button to play the trailer</string>
+    
+    <string name="expanded_text">  Show less</string>
+    <string name="collapsed_text">Show more</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Movie Settings</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_popular_value</string>
+
+    <!-- Label for order-by most popular option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_popular_label">Most Popular</string>
+    <string name="settings_order_by_most_popular_value" translatable="false">popular</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_highest_rated_label">Highest Rated</string>
+    <string name="settings_order_by_highest_rated_value" translatable="false">top_rated</string>
+
+    <!-- Label for order-by favourites option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_favourites_label">Favourited Movies</string>
+    <string name="settings_order_by_favourites_value" translatable="false">favourites</string>
+
+    <!-- Content Description for ImageViews -->
+    <string name="movie_poster_cd">Movie Poster to Display on main screen</string>
+    <string name="movie_poster_detail_cd">Movie Poster to Display on detail screen</string>
+
+
+</resources>
